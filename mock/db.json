@@ -1,0 +1,22 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "code": "BTX",
+      "name": "삼성전자(전기/전자)",
+      "totalPrice":3742980,
+      "currentPrice": 64000,
+      "amount": 0.23,
+      "datetime": "2019/01/20 08:23:22"
+    },
+    {
+      "id": 2,
+      "code": "ETH",
+      "name": "LG화학(화학)",
+      "totalPrice": 1230000,
+      "currentPrice": 20000,
+      "amount": 10,
+      "datetime": "2019/01/20 07:23:22"
+    }
+  ]
+}
